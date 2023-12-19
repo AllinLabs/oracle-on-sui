@@ -1,0 +1,11 @@
+[package]
+name = 'OracleOnSui'
+version = '1.0.0'
+
+[dependencies]
+Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework", rev = "testnet" }
+
+[addresses]
+OracleOnSui = "0x0735bde3dac7bdab7b9cbf9b99922402c370b160"
+
+
