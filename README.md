@@ -41,10 +41,6 @@
     - Token: `0xa1d0cdb1b41c786d53a03d30340ab05718010e04::sui::SUI`
     - Key: `0x69e764b55e7dfcf5604da8cf5571e5e8501f294f`
 
-Token: https://github.com/Typus-Lab/sui-dev-token
-
-Usage: https://github.com/Typus-Lab/typus-dov
-
 <!-- ## Supra Oracle
 https://supraoracles.com
 
